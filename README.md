@@ -1,4 +1,5 @@
-<h2>Hey there, I'm Vishnukant! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2>Hey there, I'm Vishnukant!</h2>
+<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="230">
 
 <p><em>Pre-final Year CSE Undergrad at <a href="http://www.mnnit.ac.in">MNNIT Allahabad</a> 
   <br>
