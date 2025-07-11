@@ -1,16 +1,33 @@
-## Hi there 👋
+<h2>Hey there, I'm Vishnukant! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="230">
 
-<!--
-**VKantB05/VKantB05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>Pre-final Year CSE Undergrad at <a href="http://www.mnnit.ac.in">MNNIT Allahabad</a> 
+  <br>
+MERN Stack Developer | Competitive Programmer on <a href="https://leetcode.com/u/vishnu_b05/">Leetcode</a>
+</em></p>
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://github.com/VKantB05" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/github/followers/VKantB05?label=Follow&style=social" alt="GitHub Follow" />
+  </a>
+    &nbsp;
+  <a href="https://www.linkedin.com/in/vishnu-bagri" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="50"> A little more about me...
+
+```javascript
+const vishnukant = {
+  pronouns: "he" | "him",
+  code: ["C++", "JavaScript"],
+  stack: ["React", "Node", "Express", "MongoDB"],
+  tools: ["Git", "GitHub", "VS Code", "Tailwind CSS"],
+  currentlyLearning: ["DSA", "System Design"],
+  cpFocus: ["Codeforces", "LeetCode"],
+  goal: "To become a strong problem solver and build scalable web apps 🚀"
+}
