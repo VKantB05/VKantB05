@@ -1,7 +1,7 @@
 <h2>Hey there, I'm Vishnukant!</h2>
 <img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="230">
 
-<p><em>Pre-final Year CSE Undergrad at <a href="http://www.mnnit.ac.in">MNNIT Allahabad</a> 
+<p><em>Final Year CSE Undergrad at <a href="http://www.mnnit.ac.in">MNNIT Allahabad</a> 
   <br>
 MERN Stack Developer | Competitive Programmer on <a href="https://leetcode.com/u/vishnu_b05/">Leetcode</a>
 </em></p>
@@ -24,10 +24,10 @@ MERN Stack Developer | Competitive Programmer on <a href="https://leetcode.com/u
 ```javascript
 const vishnukant = {
   pronouns: "he" | "him",
-  code: ["C++", "JavaScript"],
+  code: ["C++", "JavaScript","Java"],
   stack: ["React", "Node", "Express", "MongoDB"],
   tools: ["Git", "GitHub", "VS Code", "Tailwind CSS"],
-  currentlyLearning: ["DSA", "System Design"],
+  currentlyLearning: ["DSA", "System Design","Agentic AI"],
   cpFocus: ["Codeforces", "LeetCode"],
   goal: "To become a strong problem solver and build scalable web apps 🚀"
 }
